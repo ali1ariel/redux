@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aplicativo Web Básico para introdução do Redux em React, onde To Do's são criados.
 
 ## Available Scripts
 
